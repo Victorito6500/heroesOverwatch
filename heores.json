@@ -365,58 +365,93 @@
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/echo/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
-        "dificultad" : "",
-        "resumen" : "",
+        "nombre" : "Genji",
+        "funcion" : "daño",
+        "dificultad" : "3",
+        "resumen" : "Genji lanza precisos y letales shuriken a sus objetivos y usa su moderna katana para desviar proyectiles o infligir cortes veloces que hacen sangrar a los enemigos.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Genji Shimada",
+            "edad" : "35",
+            "ocupacion" : "Aventurero",
+            "baseOperaciones" : "Monasterio Shambali, Nepal",
+            "afiliacion" : "Clan Shimada (anteriormente), Overwatch (anteriormente)"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "RENUNCIA A TU CUERPO, PERO NUNCA RENUNCIES A TU HONOR",
+            "contenido" : "El cíborg Genji Shimada ha aceptado el cuerpo cibernético que rechazó en el pasado y, gracias a ello, ha descubierto una humanidad superior.\n\nGenji era el hijo pequeño del maestro del clan ninja Shimada, y llevaba una vida llena de lujos y privilegios. No le interesaban los negocios ilegales de su familia y, aunque destacaba y disfrutaba de su entrenamiento ninja, prefería seguir llevando una vida de donjuán. Muchos del clan creían que el despreocupado Genji era una carga peligrosa, y culpaban a su padre por consentirlo y protegerlo. Tras la inoportuna muerte del líder del clan, Hanzo, el hermano mayor de Genji, le exigió que desempeñara un papel más activo en el imperio que construyó su padre. Genji se negó, lo que enfureció a Hanzo. La tensión creciente entre los hermanos los condujo a un violento enfrentamiento que dejó a Genji al borde de la muerte.\n\nHanzo creía que había matado a su hermano, pero la intervención de Overwatch y de la doctora Angela Ziegler salvó la vida de Genji. La organización de seguridad global vio potencial en Genji para incorporarlo en sus operaciones y combatir el clan Shimada. Las heridas de Genji apenas lo dejaron con vida, así que Overwatch le ofreció reconstruir su cuerpo a cambio de su ayuda. Lo sometieron a un exhaustivo proceso de ciberización que incrementó su velocidad y agilidad naturales, y potenció sus excepcionales habilidades ninja. Una vez transformado en un arma viviente, Genji emprendió la tarea de desmantelar el imperio criminal de su familia.\n\nSin embargo, conforme pasaba el tiempo, Genji sentía que una guerra se libraba en su interior. Los implantes mecánicos de su cuerpo lo repugnaban, y no conseguía aceptar el ser en que se había convertido. Cuando completó la misión, abandonó Overwatch y recorrió el mundo en busca de respuestas. Vagó durante años antes de conocer al monje ómnico Zenyatta. Aunque, al principio, Genji rechazó la sabiduría de Zenyatta, el benevolente ómnico no se desalentó. Con el tiempo, Zenyatta se convirtió en su mentor y, bajo la tutela del monje, Genji se reconcilió con su doble existencia como hombre y máquina. Aprendió a aceptar que, a pesar de tener un cuerpo cíborg, su alma humana seguía intacta, con lo que llegó a entender su nueva forma como un don y un poder único.\n\nAhora, por primera vez en su vida, Genji es libre. Ni siquiera él sabe qué destino le depara."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "SHURIKEN",
+                "descripcion" : "Genji lanza tres estrellas letales de forma consecutiva. También puede lanzar tres shuriken formando un arco.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8d0916035141abd9ab2bf72dbcfd0460b7a0019529e023d259ad4340890b34b3.png"
+            },
+                {
+                "nombre" : "DESVÍO",
+                "descripcion" : "Genji refleja proyectiles gracias a rapidísimos movimientos con su espada, y los hace rebotar hacia el oponente.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9e46bda733749ddd6512b61c021b4487b6201338a9ff39c716e4ee06e5d63a58.png"
+            },
+                {
+                "nombre" : "CORTE VELOZ",
+                "descripcion" : "Genji esprinta hacia delante rebanando con su katana y atravesando a los enemigos en su camino. Si Genji elimina a un objetivo, puede volver a usar esta habilidad de inmediato.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a6639d5240b77967a734fc5e2af960fd38dccd834430a4a3409add345bb7e21e.png"
+            },
+                {
+                "nombre" : "HOJA DEL DRAGÓN",
+                "descripcion" : "Genji desenvaina y blande su katana durante un breve período de tiempo. Puede propinar golpes mortales a cualquier enemigo a su alcance hasta que enfunda la espada.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e9c3c82c08ce1a6006dbdf6905591040ed83ddceba81efb2e526c217cd57c931.png"
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/genji/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
-        "dificultad" : "",
-        "resumen" : "",
+        "nombre" : "Hanzo",
+        "funcion" : "daño",
+        "dificultad" : "3",
+        "resumen" : "Las versátiles flechas de Hanzo pueden revelar a sus enemigos o fragmentarse para atacar a varios objetivos. Es capaz de escalar muros para disparar flechas desde las alturas, y también puede invocar a un titánico espíritu dragón.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Hanzo Shimada",
+            "edad" : "38",
+            "ocupacion" : "Mercenario, asesino",
+            "baseOperaciones" : "Hanamura, Japón (anteriormente)",
+            "afiliacion" : "Clan Shimada"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "HAY HONOR EN CADA MUERTE, Y EL HONOR LLEVA A LA REDENCIÓN",
+            "contenido" : "Hanzo Shimada no deja de poner a prueba sus habilidades como arquero y asesino para convertirse en un guerrero sin par.\n\nEl linaje de la familia Shimada se remonta a varios siglos: un clan de asesinos cuyo poder creció a lo largo de los años, lo que les permitió levantar un inmenso imperio del crimen cuya principal fuente de ingresos era el tráfico de armas y substancias ilegales. Al ser el hijo mayor del líder de la familia, Hanzo debía suceder a su padre y gobernar el imperio Shimada. Desde su más tierna infancia fue entrenado para cumplir con esa responsabilidad y demostró tener aptitudes naturales para el liderazgo, así como un profundo entendimiento sobre estrategia y tácticas. También sobresalía en áreas más prácticas: era un verdadero prodigio en artes marciales, esgrima y tiro con arco.\n\nAl morir su padre, los ancianos del clan ordenaron a Hanzo que hiciera entrar en razón a su obstinado hermano pequeño para que él también ayudara a controlar el Imperio Shimada. Cuando su hermano se negó, Hanzo se vio obligado a matarlo. Este acto le rompió el corazón e hizo que renegara del legado de su padre: abandonó el clan y todo aquello por lo que tanto había luchado.\n\nAhora Hanzo viaja por el mundo perfeccionando sus habilidades como guerrero, a la vez que intenta restaurar su honor y conseguir que los fantasmas del pasado descansen en paz."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "ARCO DE TORMENTA",
+                "descripcion" : "Hanzo tensa el arco y dispara una flecha a su objetivo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1aa4358e8a1d423dd55669780908b856141a783d053224b629b064c66288469e.png"
+            },
+            {
+                "nombre" : "FLECHA SÓNICA",
+                "descripcion" : "Hanzo utiliza una flecha que contiene un dispositivo de rastreo por sónar: cualquier enemigo dentro del radio de detección quedará visiblemente marcado, de modo que perseguirlo será más fácil para Hanzo y sus aliados.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6a71d18cc52e49380aa9eb57f979524033a3e79bd3153900a12bb553d5a0e6f0.png"
+            },
+            {
+                "nombre" : "TORMENTA DE FLECHAS",
+                "descripcion" : "Hanzo dispara varias flechas de forma instantánea, pero infligen daño reducido.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/92c56621ba267d94f16baacda3f10ba7777b475935981b02e5026449d8e3d79c.png"
+            },
+            {
+                "nombre" : "AGILIDAD DE DRAGÓN",
+                "descripcion" : "Hanzo puede ejecutar un doble salto que le permite cambiar de dirección a mitad de un salto.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cd1390347345e7825dff95758b3d5ed02a3497a013400a4faaefb2c77f07ee14.png"
+            },
+            {
+                "nombre" : "ATAQUE DEL DRAGÓN",
+                "descripcion" : "Hanzo invoca un dragón espiritual que se desplaza por el aire en línea recta. Atraviesa muros y devora a todos los enemigos con los que se cruza.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f2d63b8f0e19e91d2c1199ed3ac0f20bb180dabe9ad1ffc7d1f1e880e58f0220.png"
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/hanzo/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Junkrat",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -437,11 +472,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/junkrat/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Lúcio",
+        "funcion" : "apoyo",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -462,11 +497,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/lucio/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Mccree",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -487,11 +522,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/mccree/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Mei",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -512,11 +547,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/mei/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Mercy",
+        "funcion" : "apoyo",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -537,11 +572,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Moira",
+        "funcion" : "apoyo",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -562,11 +597,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/moira/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Orisa",
+        "funcion" : "tanque",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -587,11 +622,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/orisa/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Pharah",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -612,11 +647,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/pharah/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Reaper",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -637,11 +672,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/reaper/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Reinhardt",
+        "funcion" : "tanque",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -662,11 +697,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/reinhardt/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Roadhog",
+        "funcion" : "tanque",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -687,11 +722,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/roadhog/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Sigma",
+        "funcion" : "tanque",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -712,11 +747,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/sigma/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Soldado: 76",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -737,11 +772,11 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/soldier-76/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
+        "nombre" : "Sombra",
+        "funcion" : "daño",
         "dificultad" : "",
         "resumen" : "",
         "biografia" : {
@@ -762,6 +797,206 @@
                 "imagen" : ""
             }
         ],
-        "retrato" : ""
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/sombra/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Symmetra",
+        "funcion" : "daño",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/symmetra/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Torbjörn",
+        "funcion" : "daño",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/torbjorn/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Tracer",
+        "funcion" : "daño",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/tracer/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Widowmaker",
+        "funcion" : "daño",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/widowmaker/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Winstos",
+        "funcion" : "tanque",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/winston/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Wrecking Ball",
+        "funcion" : "tanque",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/wrecking-ball/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Zarya",
+        "funcion" : "tanque",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/zarya/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Zenyatta",
+        "funcion" : "apoyo",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/zenyatta/hero-select-portrait.png"
     }
 ]
