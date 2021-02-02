@@ -73,5 +73,695 @@
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/ashe/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Baptiste",
+        "funcion" : "apoyo",
+        "dificultad" : "3",
+        "resumen" : "Baptiste dispone de un arsenal de armas y dispositivos experimentales que utiliza para mantener a sus aliados con vida y para eliminar las amenazas bajo presión. Es un médico de combate curtido en la batalla con una versatilidad que le permite tanto salvar vidas como arrebatarlas.",
+        "biografia" : {
+            "nombreReal" : "Jean-Baptiste Augustin",
+            "edad" : "36",
+            "ocupacion" : "Médico de combate",
+            "baseOperaciones" : "Tortuga, Haití (anteriormente)",
+            "afiliacion" : "Caribbean Coalition (anteriormente), Talon (anteriormente)"
+        },
+        "historia" : {
+            "titulo" : "NADIE MORIRÁ DURANTE MI GUARDIA",
+            "contenido" : "Baptiste es un médico de combate ex agente de Talon que ahora usa sus habilidades para ayudar a las víctimas de la guerra.\n\nJean-Baptiste Augustine fue uno de los 30 millones de niños que quedaron huérfanos como resultado de la Crisis Ómnica. Debido a la escasez de recursos y oportunidades, decidió alistarse en el ejército: la Caribbean Coalition, una fuerza panisleña surgida como respuesta a la Crisis, se convirtió en su familia. Guiado por su inherente deseo de ayudar a otros, Baptiste decidió hacerse médico de combate y acabó sirviendo en una unidad especial de élite de la Caribbean Coalition.\n\nCuando completó su servicio, Baptiste encontró dificultades para encajar en otro sitio, dadas sus habilidades tan particulares. Así que aceptó una de las pocas oportunidades que se le presentaron: se unió al grupo mercenario Talon, una de tantas organizaciones que buscaban beneficiarse del caos de la posguerra.\n\nPor primera vez, Baptiste pudo saborear las mieles de la buena vida: las misiones que Talon le asignaba eran fáciles y bien pagadas, lo que le permitió ahorrar algún dinero para montar una clínica en su ciudad natal. Pero poco a poco sus misiones fueron cobrando un cariz distinto, llegando a convertirse en encargos de asesinato y operaciones con bajas civiles. Al enfrentarse a esta realidad, Baptiste se dio cuenta de que lo único que hacía era perpetuar el ciclo de violencia, lo cual era exactamente lo que había destruido a su comunidad. Asqueado por sus propias acciones, abandonó Talon y se dispuso a labrarse un nuevo porvenir.\n\nPero Talon no estaba dispuesta a dejarlo escapar, ya que Baptiste sabía demasiado, así que enviaron a sus agentes para que lo silenciaran. Uno tras otro, los agentes fueron a por él, incluso sus antiguos compañeros de equipo. Para cubrir su rastro, Baptiste se dedicó a viajar de un sitio a otro colaborando con grupos de ayuda humanitaria de todo el mundo. Los pocos agentes que lograron seguirle la pista nunca volvieron a ser vistos...\n\nAhora Baptiste intenta hacer del mundo un lugar mejor, prestando servicios médicos donde puede y luchando cuando debe. Sabe que no puede deshacer los errores del pasado... Pero marcar la diferencia de cara al futuro es lo único que cuenta."
+        },
+        "habilidades" : [
+            {
+                "nombre" : "LANZAGRANADAS BIÓTICO",
+                "descripcion" : "El lanzagranadas biótico de ráfaga de tres rondas de Baptiste recompensa la precisión en el disparo y el control del retroceso con una cantidad significativa de daño. Además, sus proyectiles curan a los aliados que se encuentran cerca del área de impacto.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/af62dfb3476b6389472188ce9e6e0e296928a5cb3ae87a4ed5133c8330e46f0d.png"
+            },
+            {
+                "nombre" : "ENERGÍA REGENERADORA",
+                "descripcion" : "Baptiste activa una intensa energía regeneradora que lo cura a él y a sus aliados cercanos en el tiempo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d887d165f7b0eb98a30af8f274ff740c6c7735af719b93e95dd9da17558815d8.png"
+            },
+            {
+                "nombre" : "CAMPO DE INMORTALIDAD",
+                "descripcion" : "Baptiste usa un dispositivo para crear un campo protector que impide que los aliados mueran. El generador se puede destruir.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d66d82bab88fc813080dd15e31629cc3aa7c8b41cfb41d5b962b628dd345e433.png"
+            },
+            {
+                "nombre" : "MATRIZ AMPLIFICADORA",
+                "descripcion" : "Baptiste crea una matriz que duplica el daño y la curación de los proyectiles aliados que pasan a través de ella.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0a31371b55e4007e67a86f8495949970d20f64b2f0166e78d3fd16217e090a83.png"
+            },
+            {
+                "nombre" : "EXOBOTAS",
+                "descripcion" : "Baptiste se agacha para impulsarse y dar un salto de gran altura.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0d598afba5a03761d617d735d5435323c56108655b5017ddf8c36c4af36b9b73.png"
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/baptiste/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Bastion",
+        "funcion" : "daño",
+        "dificultad" : "1",
+        "resumen" : "Sus protocolos de reparación y su capacidad de adoptar modos de asalto inmóvil, reconocimiento móvil y tanque devastador aumentan considerablemente las probabilidades de victoria de Bastion.",
+        "biografia" : {
+            "nombreReal" : "Autómata de asedio de SST Laboratories E54: «Bastion»",
+            "edad" : "30",
+            "ocupacion" : "Autómata de batalla",
+            "baseOperaciones" : "Desconocida",
+            "afiliacion" : "Ninguna"
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : "Antaño un combatiente de primera línea durante la devastadora Crisis Ómnica, ahora esta curiosa unidad Bastion se dedica a explorar el mundo. Le fascina la naturaleza, pero mantiene las distancias con una humanidad que aún recela de los robots.\n\nEn un principio se crearon para mantener la paz. Las unidades robóticas Bastion poseían la habilidad única de reconfigurarse rápidamente y pasar al modo cañón de asalto. Pero durante la Crisis Ómnica se volvieron en contra de sus creadores humanos y se convirtieron en el grueso del ejército rebelde ómnico. Tras el final de la crisis, casi todas fueron destruidas o desmontadas. A día de hoy, las unidades Bastion aún simbolizan los horrores del conflicto.\n\nUna sola unidad Bastion, muy dañada en las últimas batallas de la guerra, permaneció olvidada durante más de una década. Se quedó inactiva, expuesta a los elementos y oxidándose mientras la naturaleza la reclamaba poco a poco. A medida que lo invadían enredaderas y raíces, y pequeños animales lo usaban como nido, el robot siguió inerte, aparentemente ajeno al paso del tiempo. Y así fue hasta que un día, de repente, se reactivó. El robot había perdido casi por completo su configuración de combate y sentía una intensa curiosidad por el mundo natural y sus habitantes. Esta inquisitiva unidad Bastion se lanzó a explorar su entorno y a descubrir su propósito en un planeta devastado por la guerra.\n\nAunque “Bastion” parece amable, incluso inofensivo en ocasiones, su programación de combate original toma el control cuando la unidad presiente un peligro, y utiliza todo su arsenal para eliminar cualquier cosa que parezca una amenaza. Esto lo ha llevado a sufrir varios conflictos con los pocos humanos con los que se ha encontrado, por lo que el robot evita las áreas pobladas y prefiere dirigirse a las zonas salvajes y recónditas del mundo."
+        },
+        "habilidades" : [
+            {
+                "nombre" : "MODO RECONOCIMIENTO",
+                "descripcion" : "En Modo reconocimiento, Bastion puede moverse, y está equipado con una metralleta que dispara ráfagas constantes de balas de alcance medio.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a2a15d0b50a53e0477ab65e55ed46248cf86ac976e5cef7c64078470dfa59807.png"
+            },
+            {
+                "nombre" : "MODO CENTINELA",
+                "descripcion" : "En Modo centinela, Bastion permanece inmóvil y protegido con una barrera frontal. Está equipado con una ametralladora que dispara ráfagas de balas. La mira del arma puede ser guiada hacia varios objetivos para infligir daño devastador a corto y medio alcance.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5cf3fc40ec6eeee9716f66a934d9bf7f0803a924e72c12c5d1a6c74e57c933bd.png"
+            },
+            {
+                "nombre" : "RECONFIGURACIÓN",
+                "descripcion" : "Bastion alterna entre dos modos de combate básicos para adaptarse a las condiciones del campo de batalla.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/56bef8912e83cac59dc0acb08bcaef591ff2ed52385424e8d753c03bbb77e4e9.png"
+            },
+            {
+                "nombre" : "AUTORREPARACIÓN",
+                "descripcion" : "Bastion restaura su salud, pero mientras el proceso de reparación tiene lugar no puede disparar sus armas.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1f8c772ca7d072fcd1efe05b616758598339deeb46956fd9ab7cf6daa185823f.png"
+            },
+            {
+                "nombre" : "MODO TANQUE",
+                "descripcion" : "En Modo tanque, Bastion extiende unas orugas y un poderoso cañón de largo alcance. Los proyectiles explosivos del cañón destrozan a los objetivos en un amplio radio, pero Bastion solo puede permanecer en este modo durante un tiempo limitado.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3b6776324cac7381da3234ce508031f59bbf4ed658ec221d37fc817ab2c987fd.png"
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/bastion/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Briggite",
+        "funcion" : "apoyo",
+        "dificultad" : "1",
+        "resumen" : "La especialidad de Brigitte es la armadura. Puede lanzar kits de reparación a sus compañeros o sanar de forma automática a sus aliados al dañar a los enemigos con su mangual. Puede golpear con el mangual en un arco amplio que le permite alcanzar a varios objetivos o puede ejecutar un Lanzamiento de mangual, que aturde a un enemigo a distancia. En el combate, Escudo barrera le proporciona defensa personal mientras ataca a los enemigos con Carga con escudo. Su habilidad definitiva, Formación, proporciona un aumento sustancial de velocidad a Brigitte y una armadura duradera a sus aliados cercanos.",
+        "biografia" : {
+            "nombreReal" : "Brigitte Lindholm",
+            "edad" : "23",
+            "ocupacion" : "Ingeniera mecánica, aventurera",
+            "baseOperaciones" : "Gotemburgo, Suecia (anteriormente)",
+            "afiliacion" : "Ninguna"
+        },
+        "historia" : {
+            "titulo" : "¡DEMOSTRARÉ LO QUE VALGO!",
+            "contenido" : "Cansada de estar de brazos cruzados, Brigitte Lindholm se ha alzado en armas para proteger a aquellos que la necesitan.\n\nBrigitte, última hija del diseñador de armas Torbjörn Lindholm, fue sin embargo la primera en mostrar interés por la ingeniería mecánica. Se pasaba gran parte de su tiempo libre en el taller de su padre, aprendiendo el oficio y perfeccionando sus habilidades. Su don en el campo de la ingeniería estaba a la altura del de su padre, pero lo que más le interesaba a ella era fabricar armaduras y sistemas defensivos, al contrario que a su progenitor, que se había hecho mundialmente famoso (o incluso se podría decir infame) diseñando armas.\n\nTodos creían que Brigitte continuaría siendo la aprendiz de su padre y seguiría sus pasos. Pero sus planes cambiaron por la influencia de otra figura esencial en su vida, un amigo íntimo de la familia y agente de Overwatch, su padrino Reinhardt Wilhelm. Este le contaba a Brigitte historias de héroes y de caballería desde muy pequeña. Tras su retiro y la caída de Overwatch, Reinhardt declaró que se convertiría en caballero andante y recorrería el mundo impartiendo justicia. Pero antes de que partiera en esta misión, Brigitte lo sorprendió al pedirle unirse a él como su escudera. Reinhardt aceptó.\n\nComo escudera, sus responsabilidades eran muchas, pero la más importante de todas era el mantenimiento de su armadura de cruzado (con la que ya estaba familiarizada, pues era una versión diseñada por su padre). Sin embargo, poco a poco se fue percatando de que su principal trabajo era cuidar del mismo Reinhardt y protegerlo frente a su propio entusiasmo, que parecía no tener límite a pesar de que su cuerpo se estaba debilitando a causa de todos sus años de batalla.\n\nFinalmente, Brigitte se dio cuenta de que no bastaría con ser su mecánica y de que la mejor forma de ayudar a Reinhardt sería convertirse en una guerrera por derecho propio. Así, mientras su padrino la entrenaba para luchar, comenzó a construir su propia armadura en secreto.\n\nAhora Brigitte lucha junto a Reinhardt tanto para protegerlo a él como a cualquiera que necesite ayuda. Ambos viajan como guerrero y escudera buscando hacer del mundo un lugar mejor batalla a batalla."
+        },
+        "habilidades" : [
+            {
+                "nombre" : "MANGUAL MECÁNICO",
+                "descripcion" : "El arma cuerpo a cuerpo de Brigitte tiene un alcance ampliado, lo que le permite golpear a varios enemigos con un solo movimiento.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1304eead9caa02eb2057c7f9a3eb758bd438086223a8d6c475bb6912da5b8132.png"
+            },
+            {
+                "nombre" : "KIT DE REPARACIÓN",
+                "descripcion" : "Brigitte lanza un kit de reparación que puede sanar a un aliado. Si la sanación supera la salud máxima de ese aliado, la cantidad adicional se convierte en armadura.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5f9f1e00af992f4a090cafc8e83821dd2848f22cb9e0205fafcedacb26bd7335.png"
+            },
+            {
+                "nombre" : "LANZAMIENTO DE MANGUAL",
+                "descripcion" : "Brigitte lanza su mangual a larga distancia, lo que inflige daño y repele a un enemigo hasta alejarlo de ella.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/50af1a0bc61a1f022fe2ee69aa460f151aba3c0ccde41377bfb0d5c45b2c55a3.png"
+            },
+            {
+                "nombre" : "ESCUDO BARRERA",
+                "descripcion" : "Brigitte despliega una barrera de energía frontal que absorbe una cantidad limitada de daño.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2b1bb6338180161e55c5f2184879dce395eca9e58f974befe729293fcc3dfdca.png"
+            },
+            {
+                "nombre" : "CARGA CON ESCUDO",
+                "descripcion" : "Con su escudo barrera desplegado, Brigitte puede cargar hacia delante para aturdir a un enemigo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/79f145b07b35e744fd0400dceff5fb11a06f9a73c48809f1cfb462fe82fe1185.png"
+            },
+            {
+                "nombre" : "FORMACIÓN",
+                "descripcion" : "Brigitte se mueve más rápido y otorga armadura a todos los aliados cercanos. La armadura permanece hasta que se elimina con el daño.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/08552423da53faa55238bd66a2a72d32d1038e42f2eebc911921bc9d5d575432.png"
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/brigitte/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "D.va",
+        "funcion" : "tanque",
+        "dificultad" : "2",
+        "resumen" : "El meca de D.Va es ágil y poderoso. Sus dos cañones de fusión arrasan con todo a corta distancia, y puede usar sus impulsores para superar a enemigos y obstáculos, además de absorber proyectiles con su matriz de defensa.",
+        "biografia" : {
+            "nombreReal" : "Hana Song",
+            "edad" : "19",
+            "ocupacion" : "Pro-gamer (anteriormente) y piloto de mecas",
+            "baseOperaciones" : "Busan, Corea del Sur",
+            "afiliacion" : "División Móvil de Mecas del Ejército coreano"
+        },
+        "historia" : {
+            "titulo" : "JUEGO PARA GANAR",
+            "contenido" : "D.Va era una jugadora profesional que ahora aprovecha sus habilidades para pilotar un meca de última generación al servicio de la defensa de su tierra.\n\nHace veinte años, Corea del Sur fue atacada por una monstruosidad ómnica colosal que surgió de las profundidades del Mar del Este de China. La enorme y pesada creación provocó una catástrofe en las ciudades costeras antes de que la devolviesen a las profundidades. Como respuesta, el gobierno surcoreano desarrolló una unidad robótica blindada mecanizada, llamada MEKA, para proteger los entornos urbanos en futuros enfrentamientos con la amenaza ómnica.\n\nUn patrón de ataques preocupante probó que los temores del gobierno estaban fundados. Cada pocos años, la monstruosidad surgía del mar para atacar a Corea del Sur y a sus vecinos. La criatura ómnica fue aprendiendo de los encuentros, y se fue adaptando con nuevas formas, armas y habilidades. Los incidentes acababan en un punto muerto, con la monstruosidad derrotada pero no destruida.\n\nGracias a su adaptación, la criatura acabó por afectar a las redes de control de los MEKA, lo que obligó al ejército a utilizar pilotos en los mecas. Debido a las dificultades para encontrar candidatos adecuados, el gobierno decidió recurrir a los jugadores profesionales, que contaban con los reflejos y los instintos necesarios para manejar el armamento avanzado de los mecas. Reclutaron a las mayores estrellas, incluida la flamante campeona mundial Hana Song, también conocida como "D.Va". Famosa por sus habilidades de élite, D.Va era una competidora voraz que jugaba para ganar a cualquier precio, y tenía una reputación bien ganada de no mostrar compasión por sus oponentes.\n\nD.Va, que ve su nueva misión como un juego, carga sin miedo por el campo de batalla junto a su unidad MEKA, lista para defender su nación en cuanto haga falta. Hace poco ha comenzado a retransmitir sus operaciones de combate para sus dedicados fans, y su creciente comunidad de seguidores la ha transformado en un icono global."
+        },
+        "habilidades" : [
+            {
+                "nombre" : "CAÑONES DE FUSIÓN",
+                "descripcion" : "El meca de D.Va está equipado con dos cañones giratorios de corto alcance. Disparan un fuego continuo muy dañino sin necesidad de recargar, pero D.Va se mueve más lento mientras están activos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/29bd15ebb32c23483a59df18a79f71301b2128c05b2f8d0c052ab86e0715e07d.png"
+            },
+            {
+                "nombre" : "PISTOLA DE LUZ",
+                "descripcion" : "Cuando está fuera de su meca, D.Va puede seguir en la lucha gracias a su pistola automática de medio alcance.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/24074dececa8bf7b57628509e70731916db62b5ab5b30660ac1727b20bbc5b4d.png"
+            },
+            {
+                "nombre" : "IMPULSORES",
+                "descripcion" : "El meca de D.Va se eleva de un salto y puede planear gracias a la inercia. Puede girar y cambiar de dirección, o atravesar a los enemigos y repelerlos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89d6beb25b21eacd5a181b96438436692d9ad403fcef19873e506f6d46ed37a3.png"
+            },
+            {
+                "nombre" : "MATRIZ DE DEFENSA",
+                "descripcion" : "D.Va puede mantener esta matriz delantera durante un corto período de tiempo. Mientras esté activa, parará los proyectiles.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3a98edf05de3697c0b63e52f5eb59ef635a1f6a29d7a62d6ab1f490e28991bfe.png"
+            },
+            {
+                "nombre" : "MICROMISILES",
+                "descripcion" : "D.Va lanza una salva de cohetes explosivos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1787326d46d04aa10872fc30fe512ab3575781735110dfb178ff38da352facb7.png"
+            },
+            {
+                "nombre" : "AUTODESTRUCCIÓN",
+                "descripcion" : "D.Va salta de su meca y configura su reactor para que explote, lo que inflige mucho daño a los oponentes cercanos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f76e4b710ceb71f2e260029fc8d0ad15b227e3f006ab1b6c0c4e44da98c2d614.png"
+            },
+            {
+                "nombre" : "SOLICITAR MECA",
+                "descripcion" : "Al destruirse su traje de batalla, D.Va puede solicitar un nuevo meca y volver a la carga.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/848d8cd24eb0327a023a564447d79dd8b367c21a378d328cd92896a21b775219.png"
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/dva/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Doomfist",
+        "funcion" : "daño",
+        "dificultad" : "3",
+        "resumen" : "Gracias a su tecnología cibernética, Doomfist es un luchador de primera línea muy ágil y fuerte. Además de infligir daño a distancia con Cañón de mano, Doomfist puede golpear el suelo, lanzar enemigos al aire y desequilibrarlos, o meterse en la refriega cargando con Puño cohete. Cuando se enfrenta a un equipo que permanece muy unido, Doomfist pega un salto, se sale del campo de visión y se estrella contra el suelo con su espectacular Meteoro.",
+        "biografia" : {
+            "nombreReal" : "Akande Ogundimu",
+            "edad" : "45",
+            "ocupacion" : "Mercenario",
+            "baseOperaciones" : "Oyo, Nigeria",
+            "afiliacion" : "Talon"
+        },
+        "historia" : {
+            "titulo" : "SOLO EVOLUCIONAMOS A TRAVÉS DEL CONFLICTO",
+            "contenido" : "Doomfist, recientemente liberado de su encarcelamiento, está decidido a sumergir el mundo en un nuevo conflicto que cree que fortalecerá a la humanidad.\n\nAkande Ogundimu procede de una reputada familia nigeriana, de la que heredó una compañía de tecnología protésica. Ogundimu, habiéndose convertido en una figura muy inteligente y carismática, ayudó a expandir el negocio familiar y a prepararlo para el futuro mientras dedicaba su tiempo libre a su primer amor: las artes marciales de competición. Se entrenó en estilos de lucha africanos tradicionales, como el dambe y el gidigbo, así como en lucha libre y otros sistemas de combate modernos. Así logró incorporar las técnicas más eficaces en su repertorio. Ogundimu compitió en torneos en todo lo largo y ancho del continente haciendo uso de su intuición y habilidad para leer a sus oponentes, así como su formidable velocidad y fuerza.\n\nSin embargo, cuando perdió el brazo derecho como consecuencia de la Crisis Ómnica, parecía que su carrera de artista marcial se había acabado antes de alcanzar su plenitud. Su empresa de prótesis cibernéticas le permitió recuperarse de sus heridas e incluso hacerse más fuerte. No obstante, estas mejoras lo descalificaron de la competición. Entonces, intentó dedicarse a su negocio con el mismo entusiasmo que tenía por la lucha, pero no encontró nada que pudiese llenar ese hueco... Hasta que Akinjide Adeyemi, más conocido como el segundo Doomfist, le dio una nueva oportunidad con el Azote de Numbani.\n\nAdeyemi le ofreció a Ogundimu la posibilidad de luchar junto a él como mercenario. Aunque con cautela, Ogundimu aceptó y descubrió que ahora se le presentaba una oportunidad para dar rienda suelta a sus habilidades. Con el tiempo, Adeyemi lo introdujo a la organización Talon. La creencia de Talon de que la humanidad se fortalecería a través del conflicto se identificaba con las experiencias personales de Ogundimu. Además, las luchas de poder de Talon presentaron un nuevo reto que le permitió utilizar su talento como líder y su astucia como combatiente.\n\nAdeyemi era un recurso útil para Talon, pero la organización vio mucho más potencial en Ogundimu debido a su inteligencia y a su capacidad como comandante para inspirar a los demás. Mientras que Adeyemi se contentaba con aprovecharse de las incursiones en Numbani, Ogundimu tenía una visión más ambiciosa. Esta diferencia de aspiraciones llevaría a Ogundimu a asesinar a su maestro y tomar el título de Doomfist junto con el guante del mismo nombre.\n\nComo nuevo Doomfist, Ogundimu ascendió en Talon y ayudó a orquestar un conflicto que algún día abrumase al mundo, según las expectativas de la organización. Sin embargo, antes de que su plan llegase a realizarse, un equipo de asalto de Overwatch, que incluía a Tracer, a Winston y a Genji, derrotó y capturó a Ogundimu. Lo encarcelaron en una institución de máxima seguridad durante años, donde esperó pacientemente a que se desencadenaran los sucesos que había instigado.\n\nAl final, un día sintió que era el momento de regresar. Escapó de su prisión y recuperó el guante de Doomfist tras una batalla unilateral contra los robots de defensa OR15 de Numbani, de reciente descubrimiento. Ahora ha retomado su puesto en el consejo central de Talon y está preparado para desencadenar una guerra que consuma el mundo de nuevo"
+        },
+        "habilidades" : [
+            {
+                "nombre" : "CAÑÓN DE MANO",
+                "descripcion" : "Doomfist dispara una ráfaga de proyectiles de corto alcance con sus nudillos. La munición se recarga automáticamente tras un breve período.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/49c404d5887c562cdb5aafb55979c5589a450c0e18fa9d62a3c8cc0ac585886e.png"
+            },
+            {
+                "nombre" : "GOLPE SÍSMICO",
+                "descripcion" : "Doomfist salta hacia delante y golpea el suelo, lo que atrae a los enemigos cercanos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/20f721d5fd05f91e203d6e0007a137bdc90a161356f85d5aa88b2ab02b8da22b.png"
+            },
+            {
+                "nombre" : "UPPERCUT",
+                "descripcion" : "Doomfist golpea a un enemigo frente a él y lo lanza por los aires.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/848cefbe4a5fa35c2f62f31118262532e6414bbe80fc5e1d8d2f198ebdae9d60.png"
+            },
+            {
+                "nombre" : "PUÑO COHETE",
+                "descripcion" : "Tras cargar la habilidad, Doomfist se lanza hacia delante y repele a un enemigo. El daño aumenta si el enemigo choca contra un obstáculo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aa2a067fe151ac2795fe77546711c07be5f0880d9ae5dce554cab0c933d927f0.png"
+            },
+            {
+                "nombre" : "METEORO",
+                "descripcion" : "Doomfist pega un salto e inflige un daño considerable al aterrizar.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/fa96b2650987b3784a725a0fb1704f7191a686a4f42c9ccf61c404e2f08b158c.png"
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/doomfist/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "Echo",
+        "funcion" : "daño",
+        "dificultad" : "2",
+        "resumen" : "Echo es una robot evolutiva programada con una inteligencia artificial de rápida adaptación cuya versatilidad le permite desempeñar distintas funciones en el campo de batalla.",
+        "biografia" : {
+            "nombreReal" : "Echo",
+            "edad" : "Confidencial",
+            "ocupacion" : "robot polivalente y adaptable",
+            "baseOperaciones" : "Suiza (anteriormente)",
+            "afiliacion" : "Overwatch"
+        },
+        "historia" : {
+            "titulo" : "ME ALEGRA ESTAR DE VUELTA",
+            "contenido" : "ORÍGENES\n\nPara comprender los orígenes del proyecto Echo, es necesario profundizar en la historia personal de la científica y doctora de Singapur Mina Liao, quien más adelante adquiriría mayor notoriedad como uno de los primeros miembros de Overwatch. Antes de unirse a la organización, se la consideraba una de las expertas más destacadas del mundo en los campos de la robótica y la inteligencia artificial, y trabajaba para la Corporación Ómnica. Allí colaboró con el equipo responsable del diseño y la creación de los ómnicos, las mismas máquinas que declararían la guerra a la humanidad durante la Crisis Ómnica. Al final, debido a sus conocimientos, fue reclutada para colaborar en la fundación de Overwatch y acabar con sus propias creaciones.\n\nNi siquiera esa catástrofe pudo acabar con la fe de Liao en las posibilidades de la vida artificial y en su poder de transformar para bien la vida de los seres humanos. Soñaba con mejorar los diseños ómnicos originales y comenzó a elaborar las teorías que conformarían los cimientos del proyecto Echo. Sin embargo, debido a las restricciones impuestas por Overwatch a la investigación y el desarrollo de inteligencias artificiales tras la Crisis Ómnica, se vio obligada a limitar las capacidades de Echo. Lo que terminó creando era una robot polivalente y adaptable al que se podía programar para que aprendiera a desempeñar distintas funciones —desde ofrecer apoyo médico hasta llevar a cabo tareas de construcción—, pero tenía muy poca capacidad de tomar decisiones de forma autónoma. Además, contaba con múltiples capas de protección y medidas de seguridad que garantizaban su control. Fue usado con éxito en misiones de prueba junto con equipos de asalto de Overwatch, pero la dirección era reticente a incorporarlo del todo a la organización.\n\nREENCUENTRO\n\nNo obstante, la verdad era que Liao había programado a Echo con una potente inteligencia artificial que aprendía a base de observar. Tras pasar miles de horas en presencia de la científica, la robot adoptó gran parte de los hábitos de conducta de Liao, incluida su manera de hablar. Muy pocos estaban al tanto de este secreto, y uno de ellos era el agente de Blackwatch Jesse McCree, a quien se le había encomendado en varias ocasiones la misión de proteger a la científica. Cuando Liao murió en un ataque contra las instalaciones de Overwatch, la directiva de la organización decidió que era preferible no seguir adelante con un proyecto tan peligroso, así que canceló el desarrollo de Echo y puso a la robot en cuarentena.\n\nOVERWATCH 2\n\nTras ingresar en el nuevo equipo de Overwatch para defender París de los ataques de Null Sector, Echo entrará en acción por primera vez como miembro de pleno derecho. Pero ahora que ha entrado en contacto con nuevas personas, nuevas ideas y nuevas circunstancias sin las directrices de la doctora Liao, nadie sabe cómo evolucionará en el futuro."
+        },
+        "habilidades" : [
+            {
+                "nombre" : "DISPARO TRIPLE",
+                "descripcion" : "Echo lanza 3 disparos a la vez en un patrón triangular.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8fc9f68f9cdcd7c90ce902d1882bca2e783609f7f0e62c8ee00996eec4026063.png"
+            },
+            {
+                "nombre" : "BOMBAS LAPA",
+                "descripcion" : "Echo lanza una salva de bombas adhesivas que explotan tras unos instantes.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dcaa626e367b80b5bcd2425e26e0075b5343990785bc96e1705325904f73fe96.png"
+            },
+            {
+                "nombre" : "VUELO",
+                "descripcion" : "Echo carga rápidamente hacia adelante y levanta el vuelo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/711f211c988ff1fafe99276bddefa3a861789e4b27859260e8ad87df5b879337.png"
+            },
+            {
+                "nombre" : "HAZ ENFOCADO",
+                "descripcion" : "Echo canaliza un haz durante varios segundos que inflige mucho daño a objetivos con menos de la mitad de salud.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6552feeb85a32ae7131df50f61a9c0fa24bf347bf007e208a356a940561129ae.png"
+            },
+            {
+                "nombre" : "PLANEO",
+                "descripcion" : "Echo puede planear mientras cae.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e90772df1f7e55d4ea6e639ce909773ae2e28172d06afd8afa00e85bbef0a20d.png"
+            },
+            {
+                "nombre" : "DUPLICADO",
+                "descripcion" : "Echo duplica a un héroe enemigo y obtiene acceso a sus habilidades.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/457d6ebcb2b92d1e7f7a7174b426903879e131422196825589adbc5e5d9f7efb.png"
+            }
+        ],
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/echo/hero-select-portrait.png"
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
+    },
+    {
+        "nombre" : "",
+        "funcion" : "",
+        "dificultad" : "",
+        "resumen" : "",
+        "biografia" : {
+            "nombreReal" : "",
+            "edad" : "",
+            "ocupacion" : "",
+            "baseOperaciones" : "",
+            "afiliacion" : ""
+        },
+        "historia" : {
+            "titulo" : "",
+            "contenido" : ""
+        },
+        "habilidades" : [
+            {
+                "nombre" : "",
+                "descripcion" : "",
+                "imagen" : ""
+            }
+        ],
+        "retrato" : ""
     }
 ]
