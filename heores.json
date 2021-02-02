@@ -2,7 +2,7 @@
     {
         "nombre" : "Anna",
         "funcion" : "apoyo",
-        "dificultad" : 3,
+        "dificultad" : "3",
         "resumen" : "Ana posee un arsenal versátil que le permite curar y potenciar a sus aliados desde lejos, mientras que los disparos de su rifle biótico, los dardos tranquilizantes y los efectos de las granadas bióticas logran neutralizar a aquellos que suponen una amenaza para sus compañeros.",
         "biografia" : {
             "nombreReal" : "Ana Amari",
@@ -40,15 +40,15 @@
         "dificultad" : "2",
         "resumen" : "Ashe dispara su rifle rápidamente desde la cadera o usa la mira para encañonar y realizar un disparo que inflige mucho daño. Puede volar a sus enemigos con dinamita y su recortada es tan potente que puede alejarla de sus enemigos. Y Ashe no está sola: puede llamar a su aliado ómnico, Bob, para que se una a la pelea cuando sea necesario.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Elizabeth Caledonia «Calamity» Ashe",
+            "edad" : "39",
+            "ocupacion" : "Ladrona, jefa de banda",
+            "baseOperaciones" : "Cañón Deadlock, Arizona, EE. UU.",
+            "afiliacion" : "Deadlock"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "MIS ASUNTOS, MIS REGLAS",
+            "contenido" : "Ashe es la compleja y calculadora jefa de la banda Deadlock y una figura respetada en los bajos fondos.\n\nAshe procede de una familia adinerada y creció rodeada de privilegios. Sus padres eran asesores financieros de prestigio y fueron los consejeros de poderosos directores ejecutivos de todo el mundo. Aunque sus padres no le prestaron mucha atención (siempre la dejaban al cuidado del mayordomo ómnico de la familia, Bob), se aseguraron de que no le faltasen oportunidades para triunfar. Pero un encuentro fortuito con un granuja local llamado Jesse McCree y la repentina cadena de crímenes que cometieron juntos le hizo descubrir su verdadera vocación. La satisfacción de estar un paso por delante de sus objetivos y la emoción de salirse con la suya la llevaron a abrazar la vida de forajida.\n\nJunto a los otros tres fundadores de la banda Deadlock, Ashe empezó a darse a conocer gracias a golpes cada vez más grandes y extravagantes. El salto a la fama de la banda Deadlock los puso en el punto de mira de otras organizaciones criminales del sudoeste de los EE. UU. Pronto estallaron los encuentros violentos. Tras años de escaramuzas y derramamiento de sangre, Ashe organizó una reunión de los jefes de las bandas principales.\n\nAshe vio el potencial para extender su influencia. Usó lo que había aprendido de sus padres para poner orden en estas organizaciones. Propuso que las bandas trabajasen juntas (o que no se entorpecieran unas a otras). Sus principios: mantén tu palabra, no colabores con la ley, respeta el territorio ajeno y castiga siempre la traición.\n\nAhora que ya no tiene que centrar su atención en riñas con otras bandas, Ashe está dejando su firma por todo el sudoeste de los EE. UU. con una serie de audaces robos y operaciones que la han colocado en cabeza de las listas de más buscados por las autoridades y consolidado su legado como forajida de leyenda."
         },
         "habilidades" : [
             {
