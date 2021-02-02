@@ -35,10 +35,10 @@
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/ana/hero-select-portrait.png"
     },
     {
-        "nombre" : "",
-        "funcion" : "",
-        "dificultad" : "",
-        "resumen" : "",
+        "nombre" : "Ashe",
+        "funcion" : "daño",
+        "dificultad" : "2",
+        "resumen" : "Ashe dispara su rifle rápidamente desde la cadera o usa la mira para encañonar y realizar un disparo que inflige mucho daño. Puede volar a sus enemigos con dinamita y su recortada es tan potente que puede alejarla de sus enemigos. Y Ashe no está sola: puede llamar a su aliado ómnico, Bob, para que se una a la pelea cuando sea necesario.",
         "biografia" : {
             "nombreReal" : "",
             "edad" : "",
@@ -52,11 +52,26 @@
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "VÍBORA",
+                "descripcion" : "El rifle semiautomático de Ashe puede disparar rápidamente o también encañonar para realizar disparos precisos que infligen más daño.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cca8472a3e966de2b9985cee492e527eac5063e9881797dded4ca1e32e292bc0.png"
+            },
+            {
+                "nombre" : "DINAMITA",
+                "descripcion" : "Lanza un explosivo que estalla transcurrido un tiempo o que se puede detonar al instante disparándole. La explosión de Dinamita también prende fuego a los enemigos, lo que les inflige daño en el tiempo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a326b202a821ab3e196d1faab6144460f470001b26a8b6f2ab96cb3af5f325b3.png"
+            },
+            {
+                "nombre" : "RECORTADA",
+                "descripcion" : "Ashe puede disparar para repeler a los enemigos frente a ella y para propulsarse hacia atrás y ganar movilidad.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e18f7b6e464f0cf34789babf7a76b7e1d851e62102dccfe10769bcf8716e5554.png"
+            },
+            {
+                "nombre" : "BOB",
+                "descripcion" : "Ashe llama a su fiel compañero ómnico, Bob. Este carga hacia delante, lanza a los enemigos por los aires y proporciona fuego de cobertura con los cañones de su brazo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e788b12d476e896dac3831bbc0842fb3b4d07a89b3c337959d9a6cd6ea5a7df5.png"
             }
         ],
-        "retrato" : ""
-}
+        "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/ashe/hero-select-portrait.png"
+    }
 ]
