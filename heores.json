@@ -452,24 +452,44 @@
     {
         "nombre" : "Junkrat",
         "funcion" : "daño",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "2",
+        "resumen" : "El armamento antipersona de Junkrat está compuesto de un lanzagranadas que lanza proyectiles que rebotan, minas de conmoción que hacen saltar a los enemigos por los aires y cepos que los inmovilizan por completo.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Jamison Fawkes",
+            "edad" : "25",
+            "ocupacion" : "Anarquista, ladrón, demoledor, mercenario, cazatesoros",
+            "baseOperaciones" : "Junkertown, Australia (anteriormente)",
+            "afiliacion" : "Junkers (anteriormente)"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "¡ES UN DÍA PERFECTO PARA DESATAR EL CAOS!",
+            "contenido" : "Junkrat es un fanático de los explosivos que disfruta con el caos y la destrucción.\n\nEl ataque al núcleo de fusión del omnium australiano alteró para siempre el paisaje del desierto. Tras la detonación, el área quedó transformada en un yermo estéril e irradiado, lleno de escombros y de los fragmentos retorcidos de la instalación destruida. Era prácticamente imposible vivir allí.\n\nPero algunos sobrevivieron. Se hacían llamar Junkers. Escarbaron entre los restos del omnium y formaron una sociedad despiadada y sin ley a su sombra. Junkrat era uno de ellos: sobrevivía a base de recuperar metal y otros componentes de entre las ruinas. Como tantos otros, quedó afectado por la radiación. Ese toque de locura lo convirtió en el individuo ideal para manejar explosivos peligrosos, una afición que se convirtió en obsesión.\n\nSe hizo notar cuando descubrió un secreto de gran valor entre las ruinas del omnium. Aunque pocos sabían qué había encontrado exactamente, lo persiguieron cazarrecompensas, bandas y oportunistas allá adonde fuera, hasta que hizo un trato con el matón junker Roadhog, que aceptó de mala gana ser su guardaespaldas personal a cambio de la mitad del botín.\n\nAhora, con Roadhog a su lado, Junkrat se ha ido del desierto australiano y ha emprendido una oleada de crímenes a escala internacional. A su paso no queda más que caos y destrucción."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "LANZAGRANADAS",
+                "descripcion" : "El lanzagranadas de Junkrat dispara granadas a gran distancia. Rebotan hasta alcanzar su destino y explotan cuando golpean al enemigo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e43d916b0851551d17a2385f92497cdcfcd781ac155663643a1e1ff3500bbf37.png"
+            },
+            {
+                "nombre" : "MINA DE CONMOCIÓN",
+                "descripcion" : "Tras colocar unas de sus minas de conmoción caseras, Junkrat puede activarlas para dañar a los enemigos o hacerlos volar por los aires... claro que también puede acabar volándose a sí mismo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1d6135a3089363cf2c59d5157740cf5dc4ad572bc215553672a79812c397dbd2.png"
+            },
+            {
+                "nombre" : "CEPO",
+                "descripcion" : "Junkrat lanza un cepo de metal gigantesco. Si un enemigo se acerca demasiado a la trampa, esta se cierra, lo que lo inmoviliza y le inflige daño.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/425136ea32c08355f33df230d900a8cc8010ee7a2b27314f6a1e395bd78eb5aa.png"
+            },
+            {
+                "nombre" : "CAOS TOTAL",
+                "descripcion" : "El retorcido sentido del humor de Junkrat perdura más allá de la tumba. Al morir, suelta varias granadas listas para explotar.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82e123991088b3c13edb1158d0bc4281f752896f8f3ddb76d4e3407e8f52f88d.png"
+            },
+            {
+                "nombre" : "RUEDA EXPLOSIVA",
+                "descripcion" : "Junkrat pone en marcha una rueda bomba motorizada que puede pasar por encima de paredes y obstáculos, y la envía a través del campo de batalla. La puede detonar por control remoto para infligir daño a los enemigos atrapados en la explosión o dejar que explote por sí sola.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d16b5c6c337b1c0ecee3e5bf0760c870927e921fed8f0caed12dcb996b5347ae.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/junkrat/hero-select-portrait.png"
@@ -477,24 +497,39 @@
     {
         "nombre" : "Lúcio",
         "funcion" : "apoyo",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "2",
+        "resumen" : "En el campo de batalla, el sofisticado amplificador sónico de Lúcio golpea a los enemigos con proyectiles y repele a los rivales con descargas de sonido. Sus canciones pueden curar o aumentar la velocidad de movimiento de su equipo, y puede cambiar de canción cuando quiera.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Lúcio Correia dos Santos",
+            "edad" : "26",
+            "ocupacion" : "DJ internacional, luchador por la libertad",
+            "baseOperaciones" : "Río de Janeiro, Brasil",
+            "afiliacion" : "Ninguna"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "¡VENGA, TODOS JUNTOS!",
+            "contenido" : "Lúcio es una celebridad internacional que inspira el cambio social a través de su música y sus actos.\n\nLúcio Correia dos Santos se crio en Río de Janeiro, en una favela pobre y atestada duramente castigada por el revuelo financiero que provocó la Crisis Ómnica. Cuando Brasil inició el largo proceso de recuperación, Lúcio quiso buscar una manera de levantar la moral de sus más allegados. Halló la respuesta en la música y en su poder para unir a la gente, incluso para ayudarlos a olvidar sus problemas, aunque solo fuera por unos instantes. Actuó en la calle, en fiestas de barrio y, conforme se hizo mayor, en toda una serie de legendarios locales alternativos.\n\nSin embargo, el caos se adueñó de la inseparable comunidad de Lúcio cuando la multinacional Vishkar Corporation firmó un contrato para reconstruir largos tramos de la ciudad. Aseguraron a Lúcio y sus vecinos que las obras mejorarían sus vidas, pero la promesa cayó en saco roto. Vishkar impuso controles a los residentes en aras de la creación de una sociedad más ordenada: toques de queda, medidas estrictas en lo que la empresa percibía como comportamiento laxo, y explotación de los habitantes como mano de obra barata.\n\nLúcio no pudo soportarlo. Robó la tecnología sónica de Vishkar que se había utilizado como arma de represión civil, y la convirtió en una herramienta para incitar al pueblo a la acción. En una revuelta popular, expulsaron a Vishkar de los barrios; el liderazgo que demostró Lúcio lo convirtió en una estrella de la noche a la mañana y en un símbolo positivo del cambio social. Su música conquistó la fama casi instantáneamente, y en poco tiempo pasó de actuar únicamente en su país a abarrotar estadios enteros por todo el mundo.\n\nCon esta nueva fama, Lúcio ha visto que tiene una oportunidad para marcar la diferencia y cambiar el mundo para mejor."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "AMPLIFICADOR SÓNICO",
+                "descripcion" : "Lúcio puede atacar a los enemigos con proyectiles sónicos o hacerlos retroceder con descargas de sonido.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7586f41f0ea473e8f5efd885d8afdbc6c36ace65565d1f3aaaa90eb6d5bf92fc.png"
+            },
+            {
+                "nombre" : "CAMBIO DE PISTA",
+                "descripcion" : "Lúcio se potencia a sí mismo (y a sus compañeros de equipo más cercanos) con música. Tiene dos canciones: una amplifica la velocidad de movimiento y la otra regenera salud.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9f4ab602b5e8be4a9b8d6312ae22e7b9f23f73d132f7955bfe7c1e838ca5ef9f.png"
+            },
+            {
+                "nombre" : "SUBIDÓN",
+                "descripcion" : "Lúcio aumenta el volumen de sus altavoces e incrementa el efecto de sus canciones",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/023a4fcb7ff780b15f62a894fa4ee07f13428c3f1cee17d575884dbe820e0c13.png"
+            },
+            {
+                "nombre" : "BARRERA DE SONIDO",
+                "descripcion" : "El Amplificador sónico de Lúcio irradia ondas protectoras que otorgan escudos individuales para él y sus aliados más cercanos durante un breve período de tiempo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/21c5a17be341a3c0da2dcc9372f4f3c88ef622c80776360bd844d0fba3eb88a7.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/lucio/hero-select-portrait.png"
