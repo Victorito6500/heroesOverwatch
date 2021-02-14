@@ -584,8 +584,7 @@
             "edad" : "31",
             "ocupacion" : "Climatóloga, aventurera",
             "baseOperaciones" : "Xi'an, China (anteriormente)",
-            "afiliacion" : "Overwatch (anteriormente)
-"
+            "afiliacion" : "Overwatch (anteriormente)"
         },
         "historia" : {
             "titulo" : "MERECE LA PENA LUCHAR POR NUESTRO MUNDO",
@@ -691,12 +690,12 @@
                 "nombre" : "ORBE BIÓTICO",
                 "descripcion" : "Moira lanza una esfera biótica que rebota. Puede elegir entre una esfera que sana a los aliados a su paso, u otra que causa un efecto de descomposición en los enemigos y los daña.",
                 "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a5a235623aeb7fce1ce8e545e5be2d95b48fddf609c174fc5067efd7681ac72f.png"
-            }
+            },
             {
                 "nombre" : "EVANESCENCIA",
                 "descripcion" : "Moira se teletransporta una distancia corta.",
                 "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ba44615a7e3799d50bc2194079dd88177f98d4050a28acba6cd33ad1daaf7b5b.png"
-            }
+            },
             {
                 "nombre" : "COALESCENCIA",
                 "descripcion" : "Moira canaliza un haz de largo alcance que sana a sus aliados e ignora barreras para dañar a sus enemigos.",
@@ -708,7 +707,7 @@
     {
         "nombre" : "Orisa",
         "funcion" : "tanque",
-        "dificultad" : "2,
+        "dificultad" : "2",
         "resumen" : "Orisa hace las veces de punto de anclaje central para su equipo y defiende a sus camaradas desde primera línea con una barrera protectora. Puede atacar desde larga distancia, reforzar sus propias defensas, lanzar cargas de gravitones para desplazar y ralentizar a sus enemigos y desplegar un potenciador que aumenta el daño de varios de sus aliados a la vez.",
         "biografia" : {
             "nombreReal" : "Orisa",
@@ -753,7 +752,7 @@
     {
         "nombre" : "Pharah",
         "funcion" : "daño",
-        "dificultad" : "1,
+        "dificultad" : "1",
         "resumen" : "Surcando los cielos en su armadura de combate y armada con un lanzacohetes que dispara misiles altamente explosivos y de conmoción, Pharah es decisiva en el campo de batalla.",
         "biografia" : {
             "nombreReal" : "Fareeha Amari",
@@ -793,7 +792,7 @@
     {
         "nombre" : "Reaper",
         "funcion" : "daño",
-        "dificultad" : "1,
+        "dificultad" : "1",
         "resumen" : "Sus escopetas infernales, la fantasmal habilidad de volverse inmune al daño y el poder de desplazarse por las tinieblas hacen de Reaper uno de los seres más letales de la Tierra.",
         "biografia" : {
             "nombreReal" : "Desconocido",
@@ -804,7 +803,7 @@
         },
         "historia" : {
             "titulo" : "LA MUERTE CAMINA ENTRE VOSOTROS",
-            "contenido" : "Corren rumores de la existencia de un terrorista vestido de negro conocido como "Reaper". Su verdadera identidad y sus objetivos son un misterio. Solo hay una cosa segura: donde él va, la muerte lo sigue.\n\ner es un mercenario extremadamente irascible, un asesino cruel y sin escrúpulos que ha perpetrado ataques terroristas por todo el mundo. Ha luchado en varios conflictos armados en las últimas décadas y no obedece a ninguna causa u organización.\n\nsupervivientes hablan de una sombra oscura que vaga indemne entre los horrores de los campos de batalla. Los pocos cadáveres de sus víctimas que han podido recuperarse son carcasas pálidas drenadas de vida, y sus células muestran signos de intensa degradación. Se dice que Reaper es el resultado de una alteración genética fallida que hace que sus células se degraden y se regeneren continuamente a gran velocidad.\n\nllos que intentan seguir sus movimientos han empezado a ver un patrón en los lugares en los que hace acto de presencia. Creen que Reaper está dando caza de forma sistemática a antiguos agentes de Overwatch con el objeto de eliminarlos."
+            "contenido" : "Corren rumores de la existencia de un terrorista vestido de negro conocido como 'Reaper'. Su verdadera identidad y sus objetivos son un misterio. Solo hay una cosa segura: donde él va, la muerte lo sigue.\n\ner es un mercenario extremadamente irascible, un asesino cruel y sin escrúpulos que ha perpetrado ataques terroristas por todo el mundo. Ha luchado en varios conflictos armados en las últimas décadas y no obedece a ninguna causa u organización.\n\nsupervivientes hablan de una sombra oscura que vaga indemne entre los horrores de los campos de batalla. Los pocos cadáveres de sus víctimas que han podido recuperarse son carcasas pálidas drenadas de vida, y sus células muestran signos de intensa degradación. Se dice que Reaper es el resultado de una alteración genética fallida que hace que sus células se degraden y se regeneren continuamente a gran velocidad.\n\nllos que intentan seguir sus movimientos han empezado a ver un patrón en los lugares en los que hace acto de presencia. Creen que Reaper está dando caza de forma sistemática a antiguos agentes de Overwatch con el objeto de eliminarlos."
         },
         "habilidades" : [
             {
@@ -833,7 +832,7 @@
     {
         "nombre" : "Reinhardt",
         "funcion" : "tanque",
-        "dificultad" : "1,
+        "dificultad" : "1",
         "resumen" : "Ataviado de una armadura potenciada y equipado con su martillo, Reinhardt realiza embestidas propulsadas por el campo de batalla y defiende a su escuadrón con un enorme campo protector.",
         "biografia" : {
             "nombreReal" : "Reinhardt Wilhelm",
