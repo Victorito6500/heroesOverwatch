@@ -537,24 +537,39 @@
     {
         "nombre" : "Mccree",
         "funcion" : "daño",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "2",
+        "resumen" : "Armado con su Pacificador, McCree da cuenta de los objetivos con una precisión letal, para después huir del peligro a una velocidad vertiginosa.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Jesse McCree",
+            "edad" : "37",
+            "ocupacion" : "Cazarrecompensas",
+            "baseOperaciones" : "Santa Fe, Nuevo México, EE. UU",
+            "afiliacion" : "Overwatch"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "LA JUSTICIA NO SE VA A IMPARTIR SOLA",
+            "contenido" : "Armado con su revólver pacificador, el forajido Jesse McCree imparte justicia a su manera.\n\nMcCree era bastante conocido como miembro de la banda criminal Deadlock, que traficaba con armas y materiales militares en el suroeste de los EE. UU. cuando sus socios y él fueron detenidos en una operación de Overwatch. Debido a su habilidad e ingenio, le permitieron elegir entre pudrirse en una prisión de máxima seguridad o unirse a Blackwatch, la división de operaciones encubiertas de Overwatch. Escogió lo segundo.\n\nA pesar de las dudas iniciales, acabó por creer que podía purgar los pecados de su pasado corrigiendo las injusticias del mundo. McCree apreciaba la flexibilidad de Blackwatch, ajena a la burocracia y las formalidades. Sin embargo, al ir desapareciendo la influencia de Overwatch, ciertos elementos de Blackwatch intentaron acabar con la organización y usarla para sus propios fines. McCree, que no quería tener relación con la lucha interna, partió y desapareció entre las sombras.\n\nResurgió años después como revólver a sueldo. Aunque todo tipo de grupos buscan contar con sus talentos, McCree solo lucha por causas que considera justas."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "ACIFICADOR",
+                "descripcion" : "McCree dispara su fiel revólver. También puede amartillar manualmente el pacificador para vaciar con rapidez el tambor.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/afb27d71eeb6f3635ac1ff236c7b3f9e3c6d017360ce022d5d384288ff95bce7.png"
+            },
+            {
+                "nombre" : "EVASIÓN",
+                "descripcion" : "McCree hace una pirueta en la dirección hacia la que se mueve y recarga su pacificador en el proceso.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/24a3f2f619859812bba6b6374513fa971b6b19ccb34950c02118b41cc4f93142.png"
+            },
+            {
+                "nombre" : "GRANADA CEGADORA",
+                "descripcion" : "McCree lanza una granada cegadora que explota al poco de ser lanzada. La explosión deja atontados a los enemigos en un pequeño radio.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c9de6a63247025da4b96ad4a3e36fe2675a5ac9da3b42384590f99eed8f1d9b3.png"
+            },
+            {
+                "nombre" : "SIN PERDÓN",
+                "descripcion" : "Concentrarse. Marcar. Desenfundar. McCree se toma unos instantes para apuntar. Cuando está listo, dispara a todos los enemigos en su campo de visión; cuanta menos vida tengan, menos tardará en preparar un disparo mortal.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/346cb576a19f978a7b2c52859c5639423f076d66ca740658da0d46955ab2c97d.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/mccree/hero-select-portrait.png"
@@ -562,24 +577,40 @@
     {
         "nombre" : "Mei",
         "funcion" : "daño",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "3",
+        "resumen" : "Los dispositivos de manipulación climática de Mei ralentizan a los oponentes y protegen ubicaciones. Su pistola endotérmica lanza carámbanos dañinos y ráfagas heladas. Además, Mei puede crionizarse para protegerse de ataques u obstruir los movimientos del equipo rival con muros de hielo.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Mei-Ling Zhou",
+            "edad" : "31",
+            "ocupacion" : "Climatóloga, aventurera",
+            "baseOperaciones" : "Xi'an, China (anteriormente)",
+            "afiliacion" : "Overwatch (anteriormente)
+"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "MERECE LA PENA LUCHAR POR NUESTRO MUNDO",
+            "contenido" : "Mei es una científica que ha decidido convertir la protección de la naturaleza en su lucha personal.\n\nAunque muchos echaron la culpa del inexplicable incremento del fenómeno climático del planeta a la llegada de las nuevas tecnologías, el rápido crecimiento de la población ómnica y el drástico aumento en el consumo de recursos, la verdadera razón sigue siendo desconocida. Para encontrar una solución, Overwatch estableció una serie de observatorios ecológicos en ubicaciones remotas y de importancia crítica de todo el mundo.\n\nMei-Ling Zhou, que formaba parte de esta iniciativa plurianual, es una climatóloga sin par que ha introducido las innovaciones más vanguardistas en el campo de la manipulación climática. Estas innovaciones protegían zonas en riesgo tanto en Asia como en otros lugares. Mei estaba asignada a la estación de control del programa en el Observatorio: Antártida cuando ocurrió la desgracia: una catastrófica tormenta polar golpeó la instalación y la aisló del mundo exterior, por lo que los científicos quedaron incomunicados en el centro dañado. Cuando comenzaron a quedarse sin recursos, los científicos decidieron recurrir a la criopreservación en un último intento de sobrevivir hasta el rescate.\n\nPero ese rescate nunca llegó. No fue hasta años después que la cámara criogénica del equipo fue descubierta. Mei, todavía en hibernación, era la única superviviente. Al despertar, se dio cuenta de que el mundo en el que se encontraba había sufrido cambios considerables: Overwatch ya no existía, los problemas climáticos se habían agravado y no quedaba ningún observatorio ecológico activo. Todas aquellas pistas que habían descubierto se habían perdido.\n\nMei ha decidido continuar el trabajo por su cuenta. Equipada con una versión portátil de su tecnología de control climático, ahora viaja por todo el mundo esperando restablecer la red de trabajo ecológico e identificar las causas que amenazan el ecosistema del planeta."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "PISTOLA ENDOTÉRMICA",
+                "descripcion" : "La pistola de Mei lanza un chorro de escarcha concentrado de corto alcance que daña, ralentiza y puede congelar a los enemigos para que no se muevan. Además, Mei puede usar la pistola para disparar proyectiles con forma de carámbanos a media distancia.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a6e33c5a9c29cbb15d67b9dbd02de11cdf61d3b943c479d678cad0fa94ef4217.png"
+            },
+            {
+                "nombre" : "CRIÓNICA",
+                "descripcion" : "Mei crea un grueso bloque de hielo a su alrededor de forma instantánea. Mientras se encuentra en su interior, ignora el daño y se cura, pero no puede moverse ni usar habilidades.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b9507f892676c729768b3cb9eec4fb2195bbadb1f229a6a332d282ffa32410db.png"
+            },
+            {
+                "nombre" : "MURO DE HIELO",
+                "descripcion" : "Mei crea un enorme muro de hielo que obstruye la línea de visión, impide el movimiento y bloquea los ataques.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0608319e5f26acafd19a0afd682f3c73c5b70cbfc93d59f58f28eef5cd0eb2e7.png"
+            },
+            {
+                "nombre" : "VENTISCA",
+                "descripcion" : "Mei lanza un dron de control climático que emite ráfagas de viento y nieve en una amplia área. Los enemigos atrapados en la ventisca se ven ralentizados y sufren daño, y aquellos que permanecen en la zona durante demasiado tiempo acaban congelados.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/892fd12cc3f8bd3b54bbc175b6d8caecdedaa819c819c5fc216c3c2b4f486a3f.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/mei/hero-select-portrait.png"
@@ -587,24 +618,49 @@
     {
         "nombre" : "Mercy",
         "funcion" : "apoyo",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "1",
+        "resumen" : "El traje Valkyrie de Mercy la ayuda a mantenerse cerca de sus compañeros de equipo cual ángel de la guarda, y los sana, los resucita o los fortalece con el haz que emana de su bastón caduceo.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Angela Ziegle",
+            "edad" : "37",
+            "ocupacion" : "Médica de campo, especialista en urgencias",
+            "baseOperaciones" : "Zürich, Suiza",
+            "afiliacion" : "Overwatch (anteriormente)"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "LOS HÉROES NUNCA MUEREN",
+            "contenido" : "Además de una sanadora sin par y un auténtico ángel de la guarda para sus pacientes, la doctora Angela Ziegler es una científica brillante y una defensora acérrima de la paz.\n\nZiegler llegó a ser la jefa de cirugía de un importante hospital suizo antes de encabezar grandes avances en el campo de la nanobiología aplicada que mejoraron de forma radical los tratamientos de enfermedades y heridas mortales. Fue su pericia en este ámbito lo que llamó la atención de Overwatch.\n\nZiegler había perdido a sus padres en la guerra, así que era contraria a adoptar el enfoque militar de la organización para mantener la paz. Finalmente, llegó a la conclusión de que Overwatch le ofrecía la oportunidad de salvar vidas a mayor escala. Como jefa de investigación médica de Overwatch, Angela procuró usar su trabajo para curar en situaciones de crisis en el frente. El resultado fue la armadura de respuesta rápida Valkyrie, que ella misma pilotó en varias misiones de Overwatch.\n\nA pesar de sus contribuciones a Overwatch, solía estar en desacuerdo con sus superiores y con los objetivos dominantes de la organización. Cuando se desmanteló Overwatch, Ziegler se dedicó a ayudar a las víctimas de la guerra.\n\nAunque pasa gran parte de su tiempo cuidando de los heridos y de los desvalidos en zonas en conflicto por todo el mundo, siempre se puede contar con la doctora Ziegler y con su armadura Valkyrie allí donde los inocentes estén en peligro."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "BASTÓN CADUCEO",
+                "descripcion" : "Mercy activa uno de los dos rayos que se dirigen hacia un aliado. Dependiendo del rayo que mantenga, puede restaurar la salud del aliado o aumentar la cantidad de daño que este inflige.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d1a18f702a0e30d58608da51a0b8eeeab72a04faf0de3579ce625066caa8389e.png"
+            },
+            {
+                "nombre" : "PISTOLA CADUCEA",
+                "descripcion" : "Mercy dispara con su arma secundaria.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9d3118f2f0a262678fb1b11ffbaa3f5e929e453cb4d7c819e69ff137cde918e1.png"
+            },
+            {
+                "nombre" : "ÁNGEL DE LA GUARDA",
+                "descripcion" : "Mercy vuela hacia un aliado, lo que le permite acudir a su lado rápidamente para ayudar en momentos cruciales.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e6d6f1f8288bb9a61fcfb85db90a49d3228277d18ac190898567bed4e7799ddc.png"
+            },
+            {
+                "nombre" : "RESURRECCIÓN",
+                "descripcion" : "Mercy resucita a un aliado muerto y hace que vuelva a la refriega con la salud al máximo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d26768cf459611eedc4fdcc9096ad3b196e8b2babb0782cf24d56f108325e3bb.png"
+            },
+            {
+                "nombre" : "DESCENSO ANGÉLICO",
+                "descripcion" : "Propulsada por su armadura Valkyrie, Mercy puede ralentizar su caída desde grandes alturas.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d53b51360a83f35c450211d4a38859c839ad5720379d2e275a4f5826f3fe9967.png"
+            },
+            {
+                "nombre" : "VALKIRIA",
+                "descripcion" : "Permite que Mercy vuele y potencia sus habilidades.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0f5455a8a464e85370365bc954dc6c1cca11f4f5c09e7e6eee7a3dde29170c9e.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/hero-select-portrait.png"
@@ -612,24 +668,39 @@
     {
         "nombre" : "Moira",
         "funcion" : "apoyo",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "2",
+        "resumen" : "Las habilidades bióticas de Moira le permiten sanar e infligir daño, según la situación lo requiera. Mientras Rayo biótico otorga a Moira recursos para combatir a corto alcance, Orbe biótico le permite sanar e infligir daño desde una distancia mayor. Moira también puede utilizar Evanescencia como vía de escape o para permanecer cerca de aliados que necesiten su ayuda. Cuando se cargue su habilidad Coalescencia, Moira podrá evitar la muerte de varios aliados o rematar a enemigos debilitados.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Moira O'Deorain",
+            "edad" : "48",
+            "ocupacion" : "Genetista",
+            "baseOperaciones" : "Dublín, Irlanda; Oasis, Iraq",
+            "afiliacion" : "Talon; Blackwatch (anteriormente)"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "LA CIENCIA REVELARÁ LA VERDAD",
+            "contenido" : "La científica Moira O'Deorain, brillante y controvertida a partes iguales, está a la última en ingeniería genética y busca una forma de sobrescribir los componentes fundamentales que dan forma a la vida.\n\nHace más de una década, O'Deorain provocó un gran alboroto al publicar un controvertido artículo en el que detallaba el proceso para crear programas genéticos personalizados que podrían alterar el ADN a nivel celular. Parecía un prometedor avance que permitiría curar todo tipo de enfermedades y llevar el potencial de la humanidad a un nuevo nivel.\n\nPero pronto surgieron detractores entre la comunidad científica. Muchos afirmaban que su trabajo era peligroso; de moral cuestionable. Incluso se acusó a O'Derain de tener las mismas obsesiones científicas que podrían haber desencadenado la Crisis Ómnica. Además, ningún otro genetista pudo reproducir los resultados del trabajo de Moira, lo que provocó que se cuestionaran sus descubrimientos. Como resultado, en lugar de impulsar su carrera, el artículo dañó seriamente su reputación.\n\nMoira comenzó a recibir fondos de una fuente inesperada: la división de operaciones encubiertas de Overwatch, Blackwatch. Así que continuó con sus investigaciones clandestinas mientras desarrollaba nuevas armas y tecnología para la organización. Su trabajo se mantuvo en secreto, hasta que salió a la luz tras la investigación del incidente de Venecia. Muchos oficiales de alto rango de Overwatch negaron entonces cualquier afiliación con ella o su trabajo.\n\nTras la disolución de Overwatch, O'Deorain tuvo que buscar fuentes de financiación poco convencionales. En esta ocasión, recibió una invitación para unirse al grupo de científicos que fundó la ciudad de Oasis. Pero corrían rumores de que la organización clandestina Talon había estado financiando sus experimentos durante años a cambio de utilizar sus descubrimientos para su beneficio propio.\n\nAunque O'Deorain lo sacrificaría todo con tal de avanzar en sus descubrimientos, su obra todavía es una gran desconocida para el mundo. Pero ahora que se ha librado de sus ataduras, solo es cuestión de tiempo..."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "RAYO BIÓTICO",
+                "descripcion" : "Con su mano izquierda, Moira consume energía biótica para sanar a los aliados que se encuentran frente a ella. Con su mano derecha, dispara un haz de largo alcance que drena la salud de los enemigos a la vez que repone su salud y su energía biótica.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9721148061d528df7b3b5a90f746a82dc2b53b191add15e0962f8dcaf0777aa0.png"
+            },
+            {
+                "nombre" : "ORBE BIÓTICO",
+                "descripcion" : "Moira lanza una esfera biótica que rebota. Puede elegir entre una esfera que sana a los aliados a su paso, u otra que causa un efecto de descomposición en los enemigos y los daña.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a5a235623aeb7fce1ce8e545e5be2d95b48fddf609c174fc5067efd7681ac72f.png"
+            }
+            {
+                "nombre" : "EVANESCENCIA",
+                "descripcion" : "Moira se teletransporta una distancia corta.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ba44615a7e3799d50bc2194079dd88177f98d4050a28acba6cd33ad1daaf7b5b.png"
+            }
+            {
+                "nombre" : "COALESCENCIA",
+                "descripcion" : "Moira canaliza un haz de largo alcance que sana a sus aliados e ignora barreras para dañar a sus enemigos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/23d3ef53fd21d04e7e7b137b38e87c61b3d65394393dc00759ceb65d406e37b9.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/moira/hero-select-portrait.png"
@@ -637,24 +708,44 @@
     {
         "nombre" : "Orisa",
         "funcion" : "tanque",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "2,
+        "resumen" : "Orisa hace las veces de punto de anclaje central para su equipo y defiende a sus camaradas desde primera línea con una barrera protectora. Puede atacar desde larga distancia, reforzar sus propias defensas, lanzar cargas de gravitones para desplazar y ralentizar a sus enemigos y desplegar un potenciador que aumenta el daño de varios de sus aliados a la vez.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Orisa",
+            "edad" : "1 mes",
+            "ocupacion" : "robot guardiana",
+            "baseOperaciones" : "Numbani",
+            "afiliacion" : "Ninguna"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "VUESTRA SEGURIDAD ES MI PRIORIDAD",
+            "contenido" : "Orisa, construida a partir de los restos de uno de los robots OR15 que durante un breve tiempo ejercieron como defensores de Numbani, es la más reciente protectora de la ciudad, aunque todavía tiene mucho que aprender.\n\nínea «Idina» de robots de seguridad OR14, lanzada antes de la Crisis Ómnica, había salido de las cadenas de montaje del gigantesco ómnium de Nigeria. Tras la guerra se canceló su producción, junto a la de muchos de los modelos utilizados durante la crisis. Veinte años después, Numbani rescató del olvido el programa OR14 y lo reactivó para proteger la ciudad frente a amenazas externas. Los nuevos OR15 cumplieron con su función durante algún tiempo, antes de ser destruidos durante un ataque de Doomfist.\n\n el ataque se desmanteló el programa y las autoridades civiles decidieron vender lo que quedaba de él. Algunas piezas fueron adquiridas por una niña de 11 años, Efi Oladele, una brillante inventora cuyos logros en robótica e inteligencia artificial la habían hecho merecedora de la «beca para genios» de la Adawe Foundation.\n\nel beneplácito de unos padres comprensivos y de mente abierta, Efi se gastó la mayor parte del dinero de la beca en comprar los restos de un OR15. Creía que Numbani necesitaba un protector y que una versión mejorada de un OR15 podía desempeñar a las mil maravillas este papel. Efi lo reparó y reconfiguró y le instaló un núcleo de personalidad diseñado por ella misma.\n\n la nueva heroína de Numbani eligió el nombre de Orisa.\n\na ha demostrado que puede ser útil a la ciudad, pero aún está tratando de optimizar sus protocolos. La inexperiencia de la ómnica puede convertirla en un lastre de vez en cuando. Por suerte, entre la buena disposición de Efi a realizar cuantas modificaciones sean necesarias y la capacidad de adaptación de la inteligencia artificial de la propia Orisa, la robot y su creadora siempre han conseguido que las cosas salgan bien.\n\na está empezando su carrera como guardiana y aún tiene mucho que aprender sobre el mundo y su propio funcionamiento. Pero mientras cuente con el inagotable entusiasmo de Efi y su propio sentido del deber y el honor, nada podrá impedir que defienda a cualquier precio tanto a su creadora como a la ciudad de Numbani."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "AMETRALLADORA DE FUSIÓN",
+                "descripcion" : "El cañón de proyectiles automático de Orisa inflige daño continuo, pero la ralentiza cuando lo usa.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8bf67f548fb8dd8fde4dd07ae567e635f8d6229c330a3656134697b9ecbd9140.png"
+            },
+            {
+                "nombre" : "FORTIFICACIÓN",
+                "descripcion" : "Orisa reduce temporalmente el daño que recibe y se vuelve inmune a los efectos que impiden actuar.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d697fa90726cf683222920822d2ee00a85e0420c6cbc6ec2365573f313d06357.png"
+            },
+            {
+                "nombre" : "¡ALTO!",
+                "descripcion" : "Orisa lanza una carga de gravitones y a continuación puede detonarla, lo que ralentiza a los enemigos cercanos y los atrae hacia la explosión.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0ccf984506779d8ac96eb75f386fcfd8a781e1b01fcfd42da90343ff75888d33.png"
+            },
+            {
+                "nombre" : "BARRERA PROTECTORA",
+                "descripcion" : "Orisa lanza una barrera estacionaria que puede proteger a sus aliados y a ella misma del fuego enemigo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dd5eae0eb278e6f844f2694ea349cadd782c4e17535dc29e23ba5cd461b85c6a.png"
+            },
+            {
+                "nombre" : "POTENCIADOR",
+                "descripcion" : "Orisa despliega un dispositivo que aumenta el daño que infligen los aliados situados en su campo de visión.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/613c5ce0514904872b7d7ef026222a34a691674255c4c132acf6ecf276b80640.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/orisa/hero-select-portrait.png"
@@ -662,24 +753,39 @@
     {
         "nombre" : "Pharah",
         "funcion" : "daño",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "1,
+        "resumen" : "Surcando los cielos en su armadura de combate y armada con un lanzacohetes que dispara misiles altamente explosivos y de conmoción, Pharah es decisiva en el campo de batalla.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Fareeha Amari",
+            "edad" : "32",
+            "ocupacion" : "Jefa de seguridad",
+            "baseOperaciones" : "Guiza, Egipto",
+            "afiliacion" : "Helix Security International"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "PROTEGERÉ A LOS INOCENTES",
+            "contenido" : "Fareeha Amari lleva la llamada del deber en la sangre. Procede de un largo linaje de soldados condecorados y su mayor afán es servir con honor.\n\niña, Fareeha soñaba con seguir los pasos de su madre y unirse a Overwatch, la organización global para mantener la paz. Se alistó en el ejército egipcio, donde su perseverancia y habilidad táctica la hicieron ascender hasta el rango de oficial. Era una líder valiente y se ganó la lealtad de todos los que estuvieron bajo su mando. Semejante historial bien le hubiera valido a Fareeha un puesto en las filas de Overwatch, pero antes de que se presentara la oportunidad, la organización fue disuelta.\n\n dejar el ejército con una mención de honor por sus servicios, le ofrecieron un empleo en Helix Security International: una empresa de seguridad privada contratada para defender unas instalaciones de investigación sobre inteligencia artificial situadas bajo la explanada de Guiza. Se decía que la base secreta era vital para la seguridad de la región y de varios países de todo el mundo. Fareeha aceptó encantada el puesto y fue entrenada para usar el traje de combate experimental Raptora Mark VI, especialmente diseñado para moverse con rapidez y que cuenta con una capacidad de ofensiva devastadora.\n\na, bajo el nombre en clave “Pharah”, se encarga de la seguridad en la instalación de IA. Aunque lamenta la desaparición de Overwatch, todavía sueña con luchar por la justicia y marcar la diferencia a escala global."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "LANZACOHETES",
+                "descripcion" : "El arma principal de Pharah lanza cohetes que infligen un daño considerable en una explosión de amplio radio.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c5fee4019276f284dc81e3eaa4f6244a3a7477fbcebc2b5e70a1b9bdfc0fab9b.png"
+            },
+            {
+                "nombre" : "PROPULSORES",
+                "descripcion" : "Impulsada por los propulsores de su traje, Pharah puede ascender a grandes alturas.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ab8ffe4008a1c257f1014d55a5306fcd3d81cde8ffad569b240f74c4c13a4130.png"
+            },
+            {
+                "nombre" : "DISPARO DE CONMOCIÓN",
+                "descripcion" : "Pharah dispara un cohete desde su muñeca que repele a cualquier enemigo al que golpee.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9747b440730824756ae2d17e4d1f38468f36c985c35f56cf1f175a613279479a.png"
+            },
+            {
+                "nombre" : "BOMBARDEO",
+                "descripcion" : "Pharah dirige una ráfaga continua de minicohetes para destruir a grupos de enemigos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0708775beda1d200b586ae1d019522ea5ad8baa9bdcbbe076854102830f9fdae.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/pharah/hero-select-portrait.png"
@@ -687,24 +793,39 @@
     {
         "nombre" : "Reaper",
         "funcion" : "daño",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "1,
+        "resumen" : "Sus escopetas infernales, la fantasmal habilidad de volverse inmune al daño y el poder de desplazarse por las tinieblas hacen de Reaper uno de los seres más letales de la Tierra.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Desconocido",
+            "edad" : "Desconocida",
+            "ocupacion" : "Mercenario",
+            "baseOperaciones" : "Desconocida",
+            "afiliacion" : "Desconocida"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "LA MUERTE CAMINA ENTRE VOSOTROS",
+            "contenido" : "Corren rumores de la existencia de un terrorista vestido de negro conocido como "Reaper". Su verdadera identidad y sus objetivos son un misterio. Solo hay una cosa segura: donde él va, la muerte lo sigue.\n\ner es un mercenario extremadamente irascible, un asesino cruel y sin escrúpulos que ha perpetrado ataques terroristas por todo el mundo. Ha luchado en varios conflictos armados en las últimas décadas y no obedece a ninguna causa u organización.\n\nsupervivientes hablan de una sombra oscura que vaga indemne entre los horrores de los campos de batalla. Los pocos cadáveres de sus víctimas que han podido recuperarse son carcasas pálidas drenadas de vida, y sus células muestran signos de intensa degradación. Se dice que Reaper es el resultado de una alteración genética fallida que hace que sus células se degraden y se regeneren continuamente a gran velocidad.\n\nllos que intentan seguir sus movimientos han empezado a ver un patrón en los lugares en los que hace acto de presencia. Creen que Reaper está dando caza de forma sistemática a antiguos agentes de Overwatch con el objeto de eliminarlos."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "ESCOPETAS INFERNALES",
+                "descripcion" : "Reaper extermina a sus enemigos con sus dos escopetas.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/76b6866587871744aca310645f66d2d07755c5a55093eb8734ed0898b17efc51.png"
+            },
+            {
+                "nombre" : "FORMA ESPECTRAL",
+                "descripcion" : "Reaper se convierte en una sombra durante un breve período de tiempo. Mientras está en forma espectral, no sufre daño y puede pasar a través de los enemigos, pero no puede disparar ni utilizar habilidades.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dbcceb2a764dcf8bb808078f7a32a039fd259c72e557dcde3fb70b2041247c9a.png"
+            },
+            {
+                "nombre" : "PASO DE LAS TINIEBLAS",
+                "descripcion" : "Tras marcar un destino, Reaper desaparece y reaparece en la ubicación seleccionada.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/bad9345de1f04a46f219364952464c38d2b2a9afa335df6894cde81565816fa4.png"
+            },
+            {
+                "nombre" : "ESPIRAL DE MUERTE",
+                "descripcion" : "Reaper gira sobre el sitio y vacía sus dos escopetas infernales a una velocidad pasmosa, lo que inflige daño masivo a todos los enemigos cercanos.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e35595575880a304e14d427a0f9f5f04dc0886ba0f4cadd731ac935174f031e2.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/reaper/hero-select-portrait.png"
@@ -712,24 +833,44 @@
     {
         "nombre" : "Reinhardt",
         "funcion" : "tanque",
-        "dificultad" : "",
-        "resumen" : "",
+        "dificultad" : "1,
+        "resumen" : "Ataviado de una armadura potenciada y equipado con su martillo, Reinhardt realiza embestidas propulsadas por el campo de batalla y defiende a su escuadrón con un enorme campo protector.",
         "biografia" : {
-            "nombreReal" : "",
-            "edad" : "",
-            "ocupacion" : "",
-            "baseOperaciones" : "",
-            "afiliacion" : ""
+            "nombreReal" : "Reinhardt Wilhelm",
+            "edad" : "61",
+            "ocupacion" : "Aventurero",
+            "baseOperaciones" : "Stuttgart, Alemania",
+            "afiliacion" : "Overwatch (anteriormente)"
         },
         "historia" : {
-            "titulo" : "",
-            "contenido" : ""
+            "titulo" : "SE HARÁ JUSTICIA",
+            "contenido" : "Reinhardt Wilhelm es un campeón de una era pasada que vive según los antiguos ideales de la caballería: honor, justicia y valor.\n\nHace más de treinta años, Overwatch fue fundada para hacer frente a la amenaza de los levantamientos robots en todo el mundo. Reclutaron a Reinhardt, un soldado alemán muy condecorado, como parte del escuadrón original de Overwatch, que puso fin a la Crisis Ómnica. Una vez finalizado el conflicto, Overwatch se convirtió en una institución global dedicada a mantener la paz en un mundo devastado por la guerra. Reinhardt fue uno de sus campeones más leales.\n\nSu código ético y su increíble personalidad le han granjeado la admiración de colegas y superiores. Siempre dice lo que piensa: es el principal partidario de Overwatch y su peor crítico cuando la ocasión lo requiere. Reinhardt es un recordatorio constante de que Overwatch se creó como una fuerza para el bien.\n\nSirvió hasta bien entrada la cincuentena, momento en el que lo obligaron a retirarse de las operaciones de combate. No le gustaba la idea de dejar el servicio activo, pues temía que eso significara que sus días de honor y gloria habían terminado. Cuando llegaron los malos tiempos y se empezó a sospechar que Overwatch estaba corrupta, Reinhardt tan solo pudo mirar mientras la causa a la que había consagrado su vida se rendía y caía en desgracia.\n\nAunque Overwatch terminó siendo desmantelada, Reinhardt no iba a quedarse de brazos cruzados mientras el mundo se sumía en el caos. Se puso su armadura Crusader una vez más y juró luchar por la justicia por toda Europa, como los caballeros de antaño: defendería al inocente y conquistaría corazones y mentes con la promesa de días mejores."
         },
         "habilidades" : [
             {
-                "nombre" : "",
-                "descripcion" : "",
-                "imagen" : ""
+                "nombre" : "MARTILLO A REACCIÓN",
+                "descripcion" : "El martillo a reacción de Reinhardt es el arma cuerpo a cuerpo perfecta: cada golpe inflige gran daño en un amplio arco.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/572da2aefdb8e3c9142e5146bc51b75269937ecca413e38bae18dcdafac15b1f.png"
+            },
+            {
+                "nombre" : "CAMPO PROTECTOR",
+                "descripcion" : "Reinhardt extiende ante él un amplio campo de energía que puede absorber un daño considerable antes de desactivarse. Aunque Reinhardt puede protegerse a sí mismo y a sus compañeros mediante este campo, no podrá atacar mientras lo mantenga.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/299d97f5f256197df2698c32678314f9e08f04bbf68eba3801992e08281fd481.png"
+            },
+            {
+                "nombre" : "EMBESTIDA",
+                "descripcion" : "Reinhardt carga hacia delante en línea recta agarrando a los oponentes a su paso. Si choca contra un muro, los enemigos que lleve sufrirán un daño extremo.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/40c9f1c060033e58120c9ec174008b8f5d833412923f7f351a32e5df47fe8166.png"
+            },
+            {
+                "nombre" : "ONDA DE FUEGO",
+                "descripcion" : "Al apuntar su Martillo a reacción hacia delante, Reinhardt lanza un proyectil de fuego que atraviesa y daña a cualquier enemigo al que toque.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/568a5f49875557f735af36dce68474a923f7e8582a7be20fb68b6ee66ac077e6.png"
+            },
+            {
+                "nombre" : "SEÍSMO",
+                "descripcion" : "Reinhardt estampa su martillo a reacción contra el suelo, lo que derriba y daña a todos los enemigos frente a él.",
+                "imagen" : "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a63041a68d81c202a47a95035878edcfa75d5aa3f72414a7e84e1b1a68594bed.png"
             }
         ],
         "retrato" : "https://d1u1mce87gyfbn.cloudfront.net/hero/reinhardt/hero-select-portrait.png"
